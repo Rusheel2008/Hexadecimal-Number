@@ -1,0 +1,33 @@
+h1 {
+    color: aqua;
+}
+
+/**{
+    border: solid;
+}*/
+
+.header{
+    background-color: black;
+    display: flex ;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.site_description{
+    text-align: center;
+}
+
+body{
+    background-color: #FA8072;
+}
